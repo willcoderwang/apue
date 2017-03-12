@@ -21,4 +21,5 @@ int main()
       printf("create bar error!\n");
       return 1;
     }
+  return 0;
 }
